@@ -6,6 +6,7 @@ const nextConfig = {
       "images.tokopedia.net",
       "id.theperfectmediagroup.com",
       "assets2.rumah-bumn.id",
+      "randomuser.me",
     ],
   },
 };
